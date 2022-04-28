@@ -73,4 +73,4 @@ cmd.execute(client, message, args)
   
     });
 
-client.login("OTY5MDQ1MzU5NDc5MzczOTM1.Ymnr0Q.mUpTJi0e5ARCFKrC26_4XM-hpeM")
+client.login("token")
